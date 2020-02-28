@@ -21,7 +21,7 @@ public class Persona
         //Los métodos son acciones posibles a realizar de cada clase, get, set y los contructores son métodos.
         //Los métodos son partes de las clases y a su vez, las clases pueden interactuar entre sí, pero depende del tipo de acceso de cada una de ellas.
         //El encapsulamiento sirve para tener una manera más hérmetico nuestro espacio y cuando las variables o atributos tienen tipos de acceso "private" o "protected" se usan los métodos Set y Get para poder 1) Establcer nuevows valores a los atributos o variables y 2) Obtenr los valores de dichas variables o atributos respectivamente.
-    public void setNombre(String nombre)
+    public void setNombre(String nombre) // Las variables dentro de los parametros de los métodos set son utilizadas UNICAMENTE dentro del método SET.
     {
 
         this.nombre = nombre;
@@ -32,6 +32,34 @@ public class Persona
     {
 
         return this.nombre;
+
+    }
+    
+    public void setMasa (double masa)
+    {
+
+        this.masa = masa;
+
+    }
+
+    public double getMasa ()
+    {
+
+        return this.masa;
+
+    }
+
+    public void setAltura (double altura)
+    {
+
+        this.altura = altura;
+
+    }
+
+    public double getAltura()
+    {
+
+        return this.altura;
 
     }
 
