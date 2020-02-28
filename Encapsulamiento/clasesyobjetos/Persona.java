@@ -24,7 +24,7 @@ public class Persona
     public void setNombre(String nombre) // Las variables dentro de los parametros de los métodos set son utilizadas UNICAMENTE dentro del método SET.
     {
 
-        this.nombre = nombre;
+        this.nombre = nombre; //Con "THIS" se refiere a la variable global "edad" aunque tenga el mismo identificador.
 
     }
 
