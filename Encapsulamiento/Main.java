@@ -21,8 +21,6 @@ public class Main
 
         String Nombre1 = p1.getNombre();
 
-        System.out.println(Nombre1);
-
         Alumno a1 = new Alumno();
 
         Profesor pr1 = new Profesor();
@@ -40,10 +38,6 @@ public class Main
         Pokemon pok1 = new Pokemon();
 
         Automovil au1 = new Automovil();
-
-        System.out.println();
-        System.out.println();
-
     }
 
 }
