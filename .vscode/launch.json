@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "DibujoRaton.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ClaseAdaptadora.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "RastrearMouse.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ListasMultiples.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Listas.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>",
+            "request": "launch",
+            "mainClass": "Botones.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>(1)",
+            "request": "launch",
+            "mainClass": "ComboBox.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Suma<EjemplosyEjerciciosVarios_5e753442>",
+            "request": "launch",
+            "mainClass": "EntradaSalidaSimple.Suma",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>(2)",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>(3)",
+            "request": "launch",
+            "mainClass": "ManejoDeEventos.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>(4)",
+            "request": "launch",
+            "mainClass": "MarcarCasillas.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<EjemplosyEjerciciosVarios_5e753442>(5)",
+            "request": "launch",
+            "mainClass": "RadioBotones.Main",
+            "projectName": "EjemplosyEjerciciosVarios_5e753442"
+        }
+    ]
+}
